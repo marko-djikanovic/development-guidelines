@@ -46,7 +46,7 @@ export default class Practise extends React.Component {
                
         </div>
             
-               <div id="bg-picture" className="w-200 h-200 background-size-100perc margin-t-100 margin-l-100 absolute right-10-perc top-30-perc relative" style={{ backgroundImage: `url("https://trello-attachments.s3.amazonaws.com/5f02c0eeff71034fce9f2f54/5f0c8efa8634266cefa0a11f/568ef4633bf65dee13204339abb8042e/main-bg.jpg")`}}><span id="text-above-picture"className="theme-main-4 absolute right-50 bottom-100-perc">Za Korisnika</span></div>
+               <div id="bg-picture" className=" border-8 w-200 h-200 background-size-100perc margin-t-100 margin-l-100 absolute right-10-perc top-30-perc relative" style={{ backgroundImage: `url("https://trello-attachments.s3.amazonaws.com/5f02c0eeff71034fce9f2f54/5f0c8efa8634266cefa0a11f/568ef4633bf65dee13204339abb8042e/main-bg.jpg")`}}><span id="text-above-picture"className="theme-main-4 absolute right-50 bottom-100-perc">Za Korisnika</span></div>
 
          </div>
 
