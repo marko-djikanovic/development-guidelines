@@ -9,7 +9,7 @@ export default class Practise extends React.Component {
     render() {
         return (<div id="practise" className="flex-column">
             <div id="header" className="row center border-b-1 padding-v-40 margin-h-30 large-text bold">
-                Practise Page
+                Practise Page TEST
             </div>
 
             <div id="mainPage" className="column align-stretch margin-v-40 margin-h-30">
